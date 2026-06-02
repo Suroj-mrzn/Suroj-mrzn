@@ -23,7 +23,7 @@ An interactive user survey form designed with a dark aesthetic, built to master 
 ## 🛠️ Tech & Tools
 
 * *Languages:* JavaScript ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E), HTML5 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white), CSS3 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
-* *Editor & Environment:* VS Code, Git, GitHub
+* *Editor & Environment:* VS Code ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white), Git ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white), GitHub ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 ---
 
 ## 🌐 Connect with Me
