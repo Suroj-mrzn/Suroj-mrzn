@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Suroj Maharjan 👋
 
-<!--
-**Suroj-mrzn/Suroj-mrzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring IT Engineer focused on computers, logic, and building clean web experiences. Right now, I'm diving deep into frontend development, mastering programming fundamentals, and preparing for my upcoming entrance exams.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🔢 Simple Counting Thingy
+A modern, responsive counter application built to practice DOM manipulation, event handling, and mobile-first Flexbox layouts.
+* *Tech Stack:* HTML5, CSS3, JavaScript
+* [🔗 Live Demo](https://suroj-mrzn.github.io/countingthing/)
+* [💻 Source Code](https://github.com/Suroj-mrzn/countingthing)
+
+### 📋 Fun Survey App
+An interactive user survey form designed with a dark aesthetic, built to master structured semantic layouts, form handling, and custom input styling.
+* *Tech Stack:* HTML5, CSS3
+* [💻 Source Code](https://github.com/Suroj-mrzn/fun-survey)
+
+---
+
+## 🛠️ Tech & Tools
+
+* *Languages:* JavaScript, HTML5, CSS3
+* *Editor & Environment:* VS Code, Git, GitHub
+* **C
