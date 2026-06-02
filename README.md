@@ -15,7 +15,7 @@ A modern, responsive counter application built to practice DOM manipulation, eve
 ### 📋 Fun Survey App
 An interactive user survey form designed with a dark aesthetic, built to master structured semantic layouts, form handling, and custom input styling.
 * *Tech Stack:* HTML5, CSS3
-* * [🔗 Live Demo](https://suroj-mrzn.github.io/fun-survey/)
+* [🔗 Live Demo](https://suroj-mrzn.github.io/fun-survey/)
 * [💻 Source Code](https://github.com/Suroj-mrzn/fun-survey)
 
 ---
@@ -24,4 +24,3 @@ An interactive user survey form designed with a dark aesthetic, built to master 
 
 * *Languages:* JavaScript, HTML5, CSS3
 * *Editor & Environment:* VS Code, Git, GitHub
-* **C
