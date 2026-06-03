@@ -6,7 +6,7 @@ I'm an aspiring IT Engineer focused on computers, logic, and building clean web 
 
 ## 🚀 Featured Projects
 
-### 🔢 Simple Counting Thingy
+### 🔢 Digital Counter
 A modern, responsive counter application built to practice DOM manipulation, event handling, and mobile-first Flexbox layouts.
 * *Tech Stack:* HTML5, CSS3, JavaScript
 * [🔗 Live Demo](https://suroj-mrzn.github.io/countingthing/)
