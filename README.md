@@ -1,6 +1,6 @@
 # Hi, I'm Suroj Maharjan 👋
 
-I'm an aspiring IT Engineer focused on computers, logic, and building clean web experiences. Right now, I'm diving deep into frontend development, mastering programming fundamentals, and preparing for my upcoming engineering entrance exams.
+I'm an aspiring Software Engineer focused on computers, logic, and building clean web experiences. Right now, I'm diving deep into frontend development, mastering programming fundamentals. Made Some projects after my +2 for fun and to learn :).
 
 
 ## 🛠️ Tech & Tools
