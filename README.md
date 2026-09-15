@@ -1,11 +1,11 @@
-# Hi, I'm Suroj Maharjan 👋
+# Hello, I'm Suroj Maharjan
 
-I'm an aspiring Software Engineer focused on computers, logic, and building clean web experiences. Right now, I'm diving deep into frontend development, mastering programming fundamentals. Made Some projects after my +2 for fun and to learn :).
-
+Just an aspiring Software Engineer, Made Some projects after my +2 for fun and to learn :). lets see if I make it far wish me luck.
+Honestly just learning anything I want i learn not a clear path for now.
 
 ## 🛠️ Tech & Tools
 
-* **Languages:** JavaScript, HTML5, CSS3
+* **Languages:** JavaScript, HTML5, CSS3, 
 * **Editor & Environment:** VS Code, Git, GitHub
 * **UI/UX:** Canva, Figma
 
