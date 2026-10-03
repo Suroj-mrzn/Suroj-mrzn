@@ -1,7 +1,7 @@
 # Hello, I'm Suroj Maharjan
 
 Just an aspiring Software Engineer, Made Some projects after my +2 for fun and to learn :). lets see if I make it far wish me luck.
-Honestly just learning anything I want i learn not a clear path for now.
+Honestly just learning anything I want to learn not a clear path for now.
 
 ## 🛠️ Tech & Tools
 
