@@ -14,7 +14,6 @@ Honestly just learning anything I want to learn not a clear path for now.
 *   [Rock Paper Scissors](https://Suroj-mrzn.github.io/rock-paper-scissor/)
 *   [Simple Calculator](https://Suroj-mrzn.github.io/simple-calculator/)
 *   [Habit Tracker](https://Suroj-mrzn.github.io/Habit-tracker/)
-*   [Personal Portfolio](https://Suroj-mrzn.github.io/portfolio/)
 *   [Stopwatch](https://Suroj-mrzn.github.io/Stopwatch/)
 *   [Digital Clock](https://Suroj-mrzn.github.io/digital-clock/)
 *   [Temperature Converter](https://Suroj-mrzn.github.io/Temperature-Converter-/)
