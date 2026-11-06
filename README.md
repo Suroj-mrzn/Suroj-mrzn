@@ -10,7 +10,7 @@ Honestly just learning anything I want to learn not a clear path for now.
 * **UI/UX:** Canva, Figma
 
 ### 🌐 Live Projects
-
+*   [Portfolio.V2](https://suroj-mrzn.github.io/Portfolio.V-2/)
 *   [Rock Paper Scissors](https://Suroj-mrzn.github.io/rock-paper-scissor/)
 *   [Simple Calculator](https://Suroj-mrzn.github.io/simple-calculator/)
 *   [Habit Tracker](https://Suroj-mrzn.github.io/Habit-tracker/)
